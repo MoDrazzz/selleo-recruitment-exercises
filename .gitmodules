@@ -1,0 +1,6 @@
+[submodule "exercises"]
+	path = exercises
+	url = https://github.com/MoDrazzz/exercises
+[submodule "washing-machine-lite"]
+	path = washing-machine-lite
+	url = https://github.com/MoDrazzz/washing-machine-lite
